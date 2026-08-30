@@ -1,0 +1,14 @@
+[
+  {
+    "{#APPNAME}": "sample-app",
+    "{#PORT}": "18080",
+    "{#AUTOSTART}": "true",
+    "{#OSTYPE}": "Linux"
+  },
+  {
+    "{#APPNAME}": "sample-batch",
+    "{#PORT}": "19090",
+    "{#AUTOSTART}": "false",
+    "{#OSTYPE}": "AIX"
+  }
+]
