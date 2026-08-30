@@ -1,0 +1,14 @@
+[
+  {
+    "{#LOGNAME}": "sample-app-error",
+    "{#LOGPATH}": "/opt/apps/sample-app/logs/^error\\.log.*$",
+    "{#PATTERN}": "ERROR|Exception",
+    "{#SEVERITY}": "high"
+  },
+  {
+    "{#LOGNAME}": "sample-app-business",
+    "{#LOGPATH}": "/opt/apps/sample-app/logs/^business\\.log.*$",
+    "{#PATTERN}": "APPROVAL_FAIL|BUSINESS_ERROR",
+    "{#SEVERITY}": "warning"
+  }
+]
