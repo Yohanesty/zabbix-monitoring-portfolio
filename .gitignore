@@ -1,0 +1,35 @@
+# Credentials / secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Certificates / SSH
+*.crt
+*.cer
+id_rsa*
+id_ed25519*
+
+# Local configuration
+config.local.*
+secrets/
+credentials/
+
+# Logs / dumps
+*.log
+*.out
+*.dump
+
+# Local runtime
+tmp/
+work/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
