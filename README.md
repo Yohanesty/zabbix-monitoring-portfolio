@@ -163,6 +163,12 @@ Linux/AIX와 Windows 예제 스크립트는 [`scripts/`](scripts/)에서 확인�
     └── jmx_monitor_lld.json
 ```
 
+## Related Portfolio
+
+- [Financial Application Architecture Portfolio](https://github.com/Yohanesty/financial-application-architecture-portfolio) — Application 통합, Legacy Compatibility, Runtime/Resource Isolation을 다룬 Architecture 사례
+- [Financial E-Document Gateway Portfolio](https://github.com/Yohanesty/financial-edoc-gateway-portfolio) — Java/Netty 기반 Integration Modernization 사례
+- [Spring Security MFA Portfolio](https://github.com/Yohanesty/spring-security-mfa-portfolio) — Legacy Spring Web 인증 고도화 사례
+
 ## Security Notice
 
 이 저장소는 공개 포트폴리오용으로 일반화한 예제만 포함합니다.
